@@ -1,0 +1,40 @@
+h1{
+    color: #ac2925;
+    text-align: center;
+    font-size: 40px;
+    font-family: Massa;
+    font-weight: bold;
+    background-color: #0d71bb;
+}
+
+body{
+    font-family: Massa;
+}
+
+#btn{
+    text-align: right;
+}
+
+.footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #EFEFEF;
+    text-align: center;
+}
+
+#cap{
+    text-align: center;
+    color: #0d71bb;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.col-xs-3{
+    font-weight: bold;
+    font-size: 16px;
+}
+
